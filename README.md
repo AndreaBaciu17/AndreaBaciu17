@@ -1,6 +1,6 @@
 ## Hello, I'm Andrea! 👋
 
-💻 I'm a Computer Science grad from with a passion for merging technology and creativity.
+💻 I'm a Computer Science grad from with a passion for merging technology and creativity. I am actively seeking remote software and web development internship opportunities in the creative arts, media, and entertainment industries.
 
 🔧 Tech-wise, I'm skilled in Python, C++, C#, and familiar with HTML/CSS and JavaScript. I’m excited about how technology can revolutionize the creative arts.
 
