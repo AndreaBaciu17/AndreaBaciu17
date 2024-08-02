@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, I'm Andrea! 👋
 
-👋 Hi, I'm Andrea! I'm a Computer Science grad from with a passion for merging technology and creativity.
+💻 I'm a Computer Science grad from with a passion for merging technology and creativity.
 
 🔧 Tech-wise, I'm skilled in Python, C++, C#, and familiar with HTML/CSS and JavaScript. I’m excited about how technology can revolutionize the creative arts.
 
