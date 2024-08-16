@@ -4,7 +4,9 @@
 
 🔧 Tech-wise, I'm skilled in Python, C++, C#, and familiar with HTML/CSS and JavaScript. I’m excited about how technology can revolutionize the creative arts.
 
-🎨 I’m also an artist with dreams of launching a commissioning business and showcasing my work online. Let's connect if you're into tech, software, or creative tech projects!
+🎨 I’m also an artist with dreams of launching a commissioning business and showcasing my work online. 
+
+📞So, let's connect if you're into tech, software, or creative tech projects! Contact me directly through Github, [LinkedIn messages](www.linkedin.com/in/andrea-baciu), or through my email at baciuandrea04@gmail.com.
 
 <!--
 **AndreaBaciu17/AndreaBaciu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
