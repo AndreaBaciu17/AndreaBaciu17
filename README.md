@@ -8,6 +8,22 @@
 
 📞So, let's connect if you're into tech or creativity! Contact me directly through Github, [LinkedIn messages](https://www.linkedin.com/in/andrea-baciu), or through my email at baciuandrea04@gmail.com.
 
+<table align="center">  <tr>
+    <td>
+      <p align="center">        <a href="https://www.python.org" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>        </a>
+        <br />
+        <a target="_blank" rel="noreferrer">          <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="40" height="40"/>        </a>
+        <br />
+        <a target="_blank" rel="noreferrer">          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/>        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBaciu17&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!--
 **AndreaBaciu17/AndreaBaciu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
