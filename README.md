@@ -8,9 +8,21 @@
 
 📞So, let's connect if you're into tech or creativity! Contact me directly through Github, [LinkedIn messages](https://www.linkedin.com/in/andrea-baciu), or through my email at baciuandrea04@gmail.com.
 
+<div align="center">
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=AndreaBaciu17">
+</a>
+<a href="https://github.com/YashAgrawal9265?tab=followers">
+    <img src="https://img.shields.io/github/followers/AndreaBaciu17?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
+</div>
+
 <table align="center">  <tr>
     <td>
-      <p align="center">        <a href="https://www.python.org" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>        </a>
+      <p align="center">     
+          <a href="https://www.python.org" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>        </a>
         <br />
         <a target="_blank" rel="noreferrer">          <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C#" width="40" height="40"/>        </a>
         <br />
@@ -23,7 +35,6 @@
     </td>
   </tr>
 </table>
-
 <!--
 **AndreaBaciu17/AndreaBaciu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
