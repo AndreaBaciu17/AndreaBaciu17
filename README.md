@@ -1,12 +1,22 @@
 ## Hello, I'm Andrea! 👋
 
-💻 I'm a Computer Science grad from with a passion for merging technology and creativity. I am actively seeking remote software and web development internship opportunities in the creative arts, media, and entertainment industries.
+💻 I'm a Computer Science grad from with a passion for merging technology and creativity. I am seeking remote software and web development opportunities in the creative arts, media, and entertainment industries.
 
-🔧 Tech-wise, I'm skilled in Python, C++, C#, and familiar with HTML/CSS and JavaScript. I’m excited about how technology can revolutionize the creative arts.
+🔧 Tech-wise, I'm skilled in Python, C++, C#, and familiar with HTML/CSS and JavaScript. I ask myself: how technology can revolutionize the creative arts?
 
-🎨 I’m also an artist with dreams of launching a commissioning business and showcasing my work online. 
+🎨 I’m also a drawing artist with dreams of launching a commissioning business and showcasing my work online. 
 
 📞So, let's connect if you're into tech or creativity! Contact me directly through Github, [LinkedIn messages](https://www.linkedin.com/in/andrea-baciu), or through my email at baciuandrea04@gmail.com.
+
+<div align="left">
+  <a href="mailto:baciuandrea04@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-baciu/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 
 <div align="center">
 
